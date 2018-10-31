@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" styleClass="mainFxmlClass" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.171" fx:controller="controller.FXMLConsultarClienteController">
+    <stylesheets>
+        <URL value="@/css/estilopadrao.css" />
+    </stylesheets>
+   <children>
+      <Pane layoutX="187.0" layoutY="100.0" prefHeight="200.0" prefWidth="200.0" />
+   </children>
+</AnchorPane>
